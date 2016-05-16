@@ -1,0 +1,11 @@
+/* Hover Effect CSS File */
+/* Credits To The Maker Of This Article: http://ahrengot.com/tutorials/switching-text-with-css/ */
+
+/* Hide original text */
+strong:hover { font-size: 0; }
+
+/* Replace original text with value in data-hover */
+strong:hover:before {
+    font-size: 18px;
+    content: attr(data-hover);
+}

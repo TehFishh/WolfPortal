@@ -1,0 +1,34 @@
+/*Custom CSS File Made By fionster_fish_1 for the WolfPrison Portal And Gallery Page*/
+
+h4 {
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+}
+
+Strong {
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-weight: 700;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+}
+
+.img1 {
+    position: absolute;
+    top: 500px;
+    left: 900px;
+    right: 900px;
+    z-index: -1;
+}
+
+.highlight {
+    font-weight: 700;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+}
