@@ -2,15 +2,20 @@
 <!--Gallery Webpage Made For WolfPrison © By fionster_fish_1-->
 <html>
 <head>
-    <meta name="og:description" content="WolfPrison A UpComing Prison Server With Active And Friendly Staff"/>
+    <!--Encoding Level-->
+    <meta charset="UTF-8">
+
+    <meta name="og:description" content="WolfPrison Gallery. WolfPrison A UpComing Prison Server With Active And Friendly Staff"/>
     <!--Search Engine Description-->
-    <meta name="description" content="WolfPrison A UpComing Prison Server With Active And Friendly Staff"
+    <meta name="description" content="WolfPrison Gallery. WolfPrison A UpComing Prison Server With Active And Friendly Staff"
     <!--Tab Icon-->
     <link href="assets/images/logo.jpg" rel="shortcut icon"/>
     <!--Custom CSS Hover File-->
     <link href="css/hover.css" rel="stylesheet"/>
     <!--Google Fonts // Montserrat-->
     <link href='https://fonts.googleapis.com/css?family=Montserrat:700,400' rel='stylesheet' type='text/css'/>
+    <!--Meta Keywords-->
+    <meta name="keywords" content="WolfPrison Gallery">
     <!--Custom CSS File-->
     <link href="css/cstyles.css" rel="stylesheet"/>
     <!--BootStrap-->

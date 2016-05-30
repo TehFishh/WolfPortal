@@ -1,13 +1,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta name="og:description" content="WolfPrison A UpComing Prison Server With Active And Friendly Staff"/>
+    <!--Encoding Level-->
+    <meta charset="UTF-8">
+
+    <meta name="og:description" content="WolfPrison Staff Page. WolfPrison A UpComing Prison Server With Active And Friendly Staff"/>
     <!--Search Engine Description-->
-    <meta name="description" content="WolfPrison A UpComing Prison Server With Active And Friendly Staff"/>
+    <meta name="description" content="WolfPrison Staff Page. WolfPrison A UpComing Prison Server With Active And Friendly Staff"/>
     <!--Tab Icon-->
     <link href="assets/images/logo.jpg" rel="shortcut icon"/>
     <!--Google Font // Montserrat-->
     <link href='https://fonts.googleapis.com/css?family=Montserrat:700,400' rel='stylesheet' type='text/css'/>
+    <!--Meta Keywords-->
+    <meta name="keywords" content="WolfPrison Staff, WolfPrison Staff Page.">
     <!--Bootstrap Import-->
     <link rel="stylesheet" href="css/bootstrap.min.css"/>
     <!--Custom CSS Styles-->
@@ -17,6 +22,7 @@
     <!--Tab Title-->
     <title>WolfPrison | Staff</title>
 </head>
+<!--NavBar-->
 <body background="assets/images/bg.png">
 <nav class="nav navbar-inverse">
     <div class="container-fluid">
@@ -45,10 +51,12 @@
         </div>
     </div>
 </nav>
+<!--NavBar-->
 <br>
 <br>
 <br>
 <br>
+<!--StaffList Box-->
 <div class="container">
     <div class="staffbox">
         <div class="text-center">
@@ -63,66 +71,49 @@
         <br>
         <br>
         <h3>Co-Owners:</h3>
-        <strong><font color="black">DjShadowX // <a href="#">No Forum Profile Yet</a> // About: This Person Is Incharge Of Administration And Most Staff. He Is Also A Builder.</font></strong>
+        <strong><font color="black">ItsTomHD // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=11">Forums Profile</a> // About: This Person Is A Long Time Player Aswell As A Long Time Staff Member. He Is our Lead Moderating Co-Owner.</font></strong>
         <br>
         <br>
-        <strong><font color="black">rollyponny // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=3">Forum Profile</a> // About: This Person Is The Head Co-Owner And Is Part Of The Build Team In Addition To Co-Owner.</font></strong>
+        <strong><font color="black">ItzDrew // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=31">Forums Profile</a> // About: This Person Is Also A Long Time Staff Member And Is Incharge Of Forum Moderation.</font></strong>
+        <br>
+        <br>
+        <strong><font color="black">rollyponny // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=3">Forum Profile</a> // About: And Is Part Of The Build Team In Addition To Co-Owner.</font></strong>
+        <br>
+        <br>
+        <h3>Developers:</h3>
+        <strong><font color="black">Magnistic // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=15">Forums Profile</a> // About: This Person Is Co-Developer Along With fionster_fish_1. He is our strongest Java Dev.</font></strong>
         <br>
         <br>
         <h3>Admins:</h3>
-        <strong><font color="black">ItsTomHD // <a href="#">No Forum Profile Yet</a> // About: This Person Is A Long Time Player Aswell As A Long Time Staff Member. He Is our Lead Moderating Admin.</font></strong>
+        <strong><font color="black">VanillaHusky // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=9">Forums Profile</a> // About: This Person Is Our Lead Community Manager. And Looks after you guys as much as possible!</font></strong>
         <br>
         <br>
-        <strong><font color="black">ItzDrew // <a href="#">No Forum Profile Yet</a> // About: This Person Is Also A Long Time Staff Member And Is Incharge Of Forum Moderation.</font></strong>
-        <br>
-        <br>
-        <strong><font color="black">fishlocs03 // <a href="#">No Forum Profile Yet</a> // About: This Person Is A ULTRA Long Time Staff Member And Is Our Senior Admin. He Is In Charge Of Plot Moderation.</font></strong>
+        <strong><font color="black">run21 // <a href="#">No Forums Profile Yet</a> // About: This Person Is A Mini Developer. He is currently working on one of our biggest projects!</font></strong>
         <br>
         <br>
         <h3>Builders:</h3>
         <strong><font color="black">Cattistic // <a href="#">No Forums Profile Yet</a> // About: This Person Is A Master Builder And Head Of The Build Team.</font></strong>
         <br>
         <br>
-        <strong><font color="black">luckyminer98 // <a href="#">No Forums Profile Yet</a> //</font></strong>
-        <br>
-        <br>
-        <strong><font color="black">c0lette // <a href="#">No Forums Profile Yet</a> //</font></strong>
-        <br>
-        <br>
         <h3>Moderators:</h3>
-        <strong><font color="black">lnform // <a href="#">No Forum Profile Yet</a> //</font></strong>
-        <br>
-        <br>
-        <strong><font color="black">GamesWithJD64 // <a href="#">No Forum Profile Yet</a> //</font></strong>
+        <strong><font color="black">xIncision // <a href="#">No Forums Profile Yet</a> //</font></strong>
         <br>
         <br>
         <h3>Helpers:</h3>
-        <strong><font color="black">Kayyos // <a href="#">No Forums Profile Yet</a> //</font></strong>
-        <br>
-        <br>
-        <strong><font color="black">realerik // <a href="#">No Forums Profile Yet</a> //</font></strong>
-        <br>
-        <br>
-        <strong><font color="black">VanillaHusky // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=9">Forums Profile</a> //</font></strong>
-        <br>
-        <br>
-        <h3>Trainees:</h3>
-        <strong><font color="black">GRDesigns // <a href="#">No Forums Profile Yet</a> //</font></strong>
-        <br>
-        <br>
-        <strong><font color="black">Knickss_ // <a href="#">No Forums Profile Yet</a> //</font></strong>
-        <br>
-        <br>
-        <strong><font color="black">xIncision // <a href="#">No Forums Profile Yet</a> //</font></strong>
+        <strong><font color="black">iToxicMC // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=8">Forums Profile</a> //</font></strong>
         <br>
         <br>
         <strong><font color="black">Dark_Enderlizard // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=10">Forums Profile</a> //</font></strong>
         <br>
         <br>
-        <h3>Media:</h3>
-        <strong><font color="black">iToxicMC // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=8">Forums Profile</a> // <a href="https://www.youtube.com/c/itoxicmcgames">YT Channel</a> //</font></strong>
+        <h3>Trainees:</h3>
+        <strong><font color="black">GamesWithJD64 // <a href="#">No Forum Profile Yet</a> //</font></strong>
+        <br>
+        <br>
+        <strong><font color="black">XenonUnityYT // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=16">Forums Profile</a> //</font></strong>
     </div>
 </div>
+<!--StaffList Box-->
 <!--Copy To Clipboard Script-->
 <script>window.jQuery || document.write('<script data-cfasync="true" src="js/jquery-1.12.3.min.js"><\/script>')</script>
 <script data-cfasync="true" src="js/clipboard.min.js"></script>

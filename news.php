@@ -2,13 +2,18 @@
 <!--News Web Page Made By fionster_fish_1 For WolfPrison ©-->
 <html>
 <head>
-    <meta name="og:description" content="WolfPrison A UpComing Prison Server With Active And Friendly Staff"/>
+    <!--Encoding Level-->
+    <meta charset="UTF-8">
+
+    <meta name="og:description" content="WolfPrison News Page. WolfPrison A UpComing Prison Server With Active And Friendly Staff"/>
     <!--Search Engine Description-->
-    <meta name="description" content="WolfPrison A UpComing Prison Server With Active And Friendly Staff"
+    <meta name="description" content="WolfPrison News Page. WolfPrison A UpComing Prison Server With Active And Friendly Staff"
     <!--Tab Icon-->
     <link href="assets/images/logo.jpg" rel="shortcut icon"/>
     <!--Google Font // Montserrat-->
     <link href='https://fonts.googleapis.com/css?family=Montserrat:700,400' rel='stylesheet' type='text/css'/>
+    <!--Meta Keywords-->
+    <meta name="keywords" content="WolfPrison News, WolfPrison News Page">
     <!--Custom CSS File-->
     <link href="css/NewsPageCSS.css" rel="stylesheet"/>
     <!--BootStrap Import-->
@@ -49,7 +54,30 @@
 <br>
 <br>
 <br>
-<!--News Box 1-->
+<!--News Box Entry (Continued Updates)-->
+<div class="container">
+    <div class="newsbox" id="continuedupdates">
+        <img src="assets/images/user_fish.png" width="150px" height="100px">
+        <br>
+        <strong><font color="red">[Owner] </font><font color="black">fionster_fish_1</font></strong>
+        <div class="text-center">
+            <br>
+            <h2><font color="black">Continued Updates</font></h2>
+        </div>
+        <h3>Hello Again,</h3>
+        <h3>I am pleased to announce WolfPrison is getting yet more and more updates trying to bring you the best expierance we can. We are customising some plugins which we can. In addition to this we have a new developer who will be working along side me on custom plugin development aswell as the portal, gallery, staff and news page. We hope to continuely be improving to provide the best expiarance we possibly can for you. Quote from playstation: 'This Is For The Players'!</h3>
+        <br>
+        <br>
+        <h4><font color="black">Hopeing Your Hyped Up,</font></h4>
+        <strong><font color="black">fionster_fish_1</font></strong>
+        <h6>Owner/HOS/Head-Developer</h6>
+    </div>
+</div>
+<!--News Box-->
+<br>
+<br>
+<br>
+<!--News Box Entry (NewForumsAndPortal)-->
 <div class="container">
     <div id="newforumsandportal" class="newsbox">
         <img src="assets/images/user_fish.png" width="150px" height="100px">
@@ -72,7 +100,7 @@
         <br>
         <br>
         <h3>If You Wish To Access The Old Enjin Forums The Link Is:</h3>
-        <strong><font color="black">Old Enjin Forums: <a href="http://wolfprison-wolf.enjin.com">http://wolfprison-wolf.enjin.com</a></font></strong>
+        <strong><font color="black">Old Enjin Forums: <a href="http://wolfprison-wolf.enjin.com">http://wolfprison-wolf.enjin.com</a> -- This Is Now Just A Donation Store The Forums And Other Things Were Removed!</font></strong>
         <br>
         <br>
         <h3>Special Thank To These People For Help Making This A Reality:</h3>
@@ -84,7 +112,7 @@
         <h6>Owner/HOS/Head-Developer</h6>
     </div>
 </div>
-<!--News Box 1-->
+<!--News Box-->
 <!--Scripts-->
 <script>window.jQuery || document.write('<script data-cfasync="true" src="js/jquery-1.12.3.min.js"><\/script>')</script>
 <!--Copy To Clipboard Script-->

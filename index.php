@@ -2,15 +2,20 @@
 <!--Website Made By fionster_fish_1 For WolfPrison ©-->
 <html>
 <head>
-    <meta name="og:description" content="WolfPrison A UpComing Prison Server With Active And Friendly Staff"/>
+    <!--Encoding Level-->
+    <meta charset="UTF-8">
+
+    <meta name="og:description" content="WolfPrison Portal. WolfPrison A UpComing Prison Server With Active And Friendly Staff"/>
     <!--Search Engine Description-->
-    <meta name="description" content="WolfPrison A UpComing Prison Server With Active And Friendly Staff"/>
+    <meta name="description" content="WolfPrison Portal. WolfPrison A UpComing Prison Server With Active And Friendly Staff"/>
     <!--Tab Icon-->
     <link href="assets/images/logo.jpg" rel="shortcut icon"/>
     <!--Custom CSS Hover File-->
     <link href="css/hover.css" rel="stylesheet"/>
     <!--Google Font // Montserrat-->
     <link href='https://fonts.googleapis.com/css?family=Montserrat:700,400' rel='stylesheet' type='text/css'/>
+    <!--Meta Keywords-->
+    <meta name="keywords" content="WolfPrison Portal, WolfPrison, Wolf, Prison, wolfprison.myserver.gs, fionster_fish_1, chriswolf_co, prison server">
     <!--Bootstrap Import-->
     <link rel="stylesheet" href="css/bootstrap.min.css"/>
     <!--Custom CSS Styles-->
@@ -47,7 +52,7 @@
         </div>
     </div> 
 </nav>
-<!--NavBar-->
+<!--NavBar-->   
 <!--Copy To Clipboard Script-->
 <script>window.jQuery || document.write('<script data-cfasync="true" src="js/jquery-1.12.3.min.js"><\/script>')</script>
 <script data-cfasync="true" src="js/clipboard.min.js"></script>
