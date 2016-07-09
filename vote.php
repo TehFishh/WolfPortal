@@ -35,19 +35,20 @@
         <div>
             <ul class="navbar-header navbar-right">
                 <a class="navbar-brand">
-                    <div id="btn" data-clipboard-text="wolfprison.myserver.gs" data-toggle="tooltip" data-placement="top" trigger="hover focus" title="Click to Copy IP">
-                        <strong data-hover="Click On This Message To Copy IP">IP: wolfprison.myserver.gs</strong>
+                    <div id="btn" data-clipboard-text="play.wolfprison.net" data-toggle="tooltip" data-placement="top" trigger="hover focus" title="Click to Copy IP">
+                        <strong data-hover="Click On This Message To Copy IP">IP: play.wolfprison.net</strong>
                     </div>
                 </a>
             </ul>
             <ul class="nav navbar-nav">
                 <li><a href="https://wolfprison.net"><p>Portal</p></a></li>
-                <li><a href="http://www.wolfprison-wolf.enjin.com/shop"><p>Donate</p></a></li>
+                <li><a href="http://wolfprisonstore.buycraft.net/"><p>Donate</p></a></li>
                 <li><a href="staff.php"><p>Staff</p></a></li>
                 <li><a href="https://forums.wolfprison.net/"><p>Forums</p></a></li>
                 <li><a href="news.php"><p>News</p></a></li>
                 <li class="highlight"><a href="vote.php"><p>Vote</p></a></li>
                 <li><a href="gallery.php#gallery"><p>Gallery</p></a></li>
+                <li><a href="https://plug.dj/wolfprisonmc"><p>Plug.DJ</p></a></li>
             </ul>
         </div>
     </div>

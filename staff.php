@@ -24,7 +24,7 @@
 </head>
 <!--NavBar-->
 <body background="assets/images/bg.png">
-<nav class="nav navbar-inverse">
+<nav class="nav navbar-inverse navbar-fixed-top">
     <div class="container-fluid">
         <div class="navbar-header">
             <a class="navbar-brand" href="index.php">
@@ -34,19 +34,20 @@
         <div>
             <ul class="navbar-header navbar-right">
                 <a class="navbar-brand">
-                    <div id="btn" data-clipboard-text="wolfprison.myserver.gs" data-toggle="tooltip" data-placement="top" trigger="hover focus" title="Click to Copy IP">
-                        <strong data-hover="Click On This Message To Copy IP">IP: wolfprison.myserver.gs</strong>
+                    <div id="btn" data-clipboard-text="play.wolfprison.net" data-toggle="tooltip" data-placement="top" trigger="hover focus" title="Click to Copy IP">
+                        <strong data-hover="Click On This Message To Copy IP">IP: play.wolfprison.net</strong>
                     </div>
                 </a>
             </ul>
             <ul class="nav navbar-nav">
                 <li><a href="https://wolfprison.net"><p>Portal</p></a></li>
-                <li><a href="http://www.wolfprison-wolf.enjin.com/shop"><p>Donate</p></a></li>
+                <li><a href="http://wolfprisonstore.buycraft.net/"><p>Donate</p></a></li>
                 <li class="highlight"><a href="staff.php"><p>Staff</p></a></li>
                 <li><a href="https://forums.wolfprison.net/"><p>Forums</p></a></li>
                 <li><a href="news.php"><p>News</p></a></li>
                 <li><a href="vote.php"><p>Vote</p></a></li>
                 <li><a href="gallery.php#gallery"><p>Gallery</p></a></li>
+                <li><a href="https://plug.dj/wolfprisonmc"><p>Plug.DJ</p></a></li>
             </ul>
         </div>
     </div>
@@ -60,59 +61,43 @@
 <div class="container">
     <div class="staffbox">
         <div class="text-center">
+            <br>
             <h1>The Official WolfPrison Staff List!</h1>
             <br>
         </div>
         <h3>Owners:</h3>
-        <strong><font color="black">fionster_fish_1 // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=1">Forum Profile</a> // About: This Person Is Incharge Of All Development And Web-Development. He Co-Owns The Server With ChrisWolf_co.</font></strong>
+        <strong><font color="black">ChrisWolf_co // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=2">Forums Profile</a> // About: This Person Is The #1 Incharge. And Overseas Everything That Happens. He is also a good builder.</font></strong>
         <br>
         <br>
-        <strong><font color="black">ChrisWolf_co // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=2">Forum Profile</a> // About: This Person Is The #1 Incharge. And Overseas Everything That Happens. He is also a good builder.</font></strong>
-        <br>
-        <br>
+        <strong><font color="black">fionster_fish_1 // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=1">Forums Profile</a> // About: This Person Is Incharge Of All Development And Web-Development. He Co-Owns The Server With ChrisWolf_co.</font></strong>
         <h3>Co-Owners:</h3>
-        <strong><font color="black">ItsTomHD // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=11">Forums Profile</a> // About: This Person Is A Long Time Player Aswell As A Long Time Staff Member. He Is our Lead Moderating Co-Owner.</font></strong>
-        <br>
-        <br>
-        <strong><font color="black">ItzDrew // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=31">Forums Profile</a> // About: This Person Is Also A Long Time Staff Member And Is Incharge Of Forum Moderation.</font></strong>
-        <br>
-        <br>
-        <strong><font color="black">rollyponny // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=3">Forum Profile</a> // About: And Is Part Of The Build Team In Addition To Co-Owner.</font></strong>
-        <br>
-        <br>
-        <h3>Developers:</h3>
-        <strong><font color="black">Magnistic // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=15">Forums Profile</a> // About: This Person Is Co-Developer Along With fionster_fish_1. He is our strongest Java Dev.</font></strong>
-        <br>
-        <br>
+        <strong><font color="black">ItzDrew_ // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=31">Forums Profile</a> // About: This Person Is Also A Long Time Staff Member And Is Incharge Of Forum Moderation.</font></strong>
         <h3>Admins:</h3>
         <strong><font color="black">VanillaHusky // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=9">Forums Profile</a> // About: This Person Is Our Lead Community Manager. And Looks after you guys as much as possible!</font></strong>
         <br>
         <br>
-        <strong><font color="black">run21 // <a href="#">No Forums Profile Yet</a> // About: This Person Is A Mini Developer. He is currently working on one of our biggest projects!</font></strong>
-        <br>
-        <br>
+        <strong><font color="black">Cattistic // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=36">Forums Profile</a> // About: This person is the owner of the upcoming skyblock server. He is also a great builder.</font></strong>
+        <h3>Developers:</h3>
+        <strong><font color="black">Benwager12 // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=39">Forums Profile</a> // About: This Person Is Our Lead Java Developer And Is Currently Working On Some Big Projects ;)</font></strong>
         <h3>Builders:</h3>
-        <strong><font color="black">Cattistic // <a href="#">No Forums Profile Yet</a> // About: This Person Is A Master Builder And Head Of The Build Team.</font></strong>
-        <br>
-        <br>
+        <strong><font color="black">Viisualization // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=53">Forums Profile</a> // About: This person is our head builder and is working on some of our most secret new editions ;)</font></strong>
         <h3>Moderators:</h3>
-        <strong><font color="black">xIncision // <a href="#">No Forums Profile Yet</a> //</font></strong>
-        <br>
-        <br>
-        <h3>Helpers:</h3>
-        <strong><font color="black">iToxicMC // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=8">Forums Profile</a> //</font></strong>
-        <br>
-        <br>
-        <strong><font color="black">Dark_Enderlizard // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=10">Forums Profile</a> //</font></strong>
-        <br>
-        <br>
-        <h3>Trainees:</h3>
-        <strong><font color="black">GamesWithJD64 // <a href="#">No Forum Profile Yet</a> //</font></strong>
-        <br>
-        <br>
         <strong><font color="black">XenonUnityYT // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=16">Forums Profile</a> //</font></strong>
+        <br>
+        <br>
+        <strong><font color="black">Kayyos // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=35">Forums Profile</a> //</font></strong>
+        <br>
+        <br>
+        <strong><font color="black">run21 // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=54">Forums Profile</a> //</font></strong>
+        <h3>Helpers:</h3>
+        <strong><font color="black">DragonicWolf872 // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=28">Forums Profile</a> //</font></strong>
+        <h3>Trainees:</h3>
+        <strong><font color="black">lnform // <a href="https://forums.wolfprison.net/member.php?action=profile&uid=51">Forums Profile</a> //</font></strong>
     </div>
 </div>
+<br>
+<br>
+<br>
 <!--StaffList Box-->
 <!--Copy To Clipboard Script-->
 <script>window.jQuery || document.write('<script data-cfasync="true" src="js/jquery-1.12.3.min.js"><\/script>')</script>
